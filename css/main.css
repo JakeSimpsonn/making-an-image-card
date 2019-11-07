@@ -6,6 +6,7 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
 .img-flex {
   display: block;
   width: 100%;
@@ -27,7 +28,7 @@ html {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 100%
+  width: 100%;
 }
 
 .card-label {
